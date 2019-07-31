@@ -1,0 +1,21 @@
+.centercenter{
+	text-align: center;
+}
+
+#hello,#goodbye,div h1{
+			color:blue
+}
+.font-setting{
+	font-family: 'Quicksand', 'Noto+Sans TC';
+	font-size: 100px
+}
+
+.font-setting2{
+	font-family: 'Indie Flower','Noto+Sans TC';
+	font-size: 100px
+}
+
+.font-setting3{
+	font-family: 'Hanalei','Noto+Sans TC';
+	font-size: 100px
+}
